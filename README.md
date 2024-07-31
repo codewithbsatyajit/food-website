@@ -96,7 +96,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 For any inquiries, please contact Satyajit Behera:
 
 - Instagram: [@bsatyajit_](https://www.instagram.com/bsatyajit_/)
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- GitHub: [Your GitHub Profile](https://github.com/codewithbsatyajit)
 
 ---
 
